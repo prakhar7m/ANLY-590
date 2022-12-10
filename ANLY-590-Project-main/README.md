@@ -3,7 +3,7 @@
 ### Environment setup
 1. Clone and Setup Virtual Env
 ```
-$ git clone https://github.com/prakhar7m/ANLY-590-Project.git
+$ git clone https://github.com/prakhar7m/ANLY-590.git
 ```
 
 ```
